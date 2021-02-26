@@ -20,5 +20,5 @@ Implementations of common Machine Learning algorithms and tools
 - **`Gaussian_NB.py`** : Implementation of Guassian Naive Bayes Classifier.
 - **`Neural_Network.py` : Implementation of forward and backward propogation of neural network with support for `Linear`,`ReLu`, `Sigmoid` and `Tanh` activation functions.
 - **`KFoldCV.py`**: Implementation of K-Fold Cross Validation.
-- **`GridSearchCV.py`: Implementation of Grid Search Cross Validation.
+- **`GridSearchCV.py`**: Implementation of Grid Search Cross Validation.
 - **`Metrics.py`** : Implementation of `RoC`, `Accuracy`, `Precision`, `Recall`, `F1-Score`.
